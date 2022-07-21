@@ -1,0 +1,19 @@
+NPopen
+meat
+hourse
+icecream
+milk
+
+NP close
+QPopen
+5
+5
+10
+12
+QPclose
+PDopen
+nice
+nice
+bad
+bad
+PDclose
